@@ -1,5 +1,6 @@
-print("I love programming!")
+print("I love programming!!!!!")
 print("I love genai")
 print("I love coding!!!")
 print("I love AI!")
 print("I love learning new things!")
+print("I love solving problems!")
